@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "revrecoup": {
+      "type": "http",
+      "url": "https://cklperszmqyhlofhpyhm.supabase.co/functions/v1/revrecoup-mcp"
+    }
+  }
+}

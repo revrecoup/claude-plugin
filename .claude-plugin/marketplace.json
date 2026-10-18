@@ -1,0 +1,15 @@
+{
+  "name": "revrecoup",
+  "owner": { "name": "RevRecoup", "email": "support@revrecoup.com" },
+  "metadata": { "description": "Free accounts-receivable and debt-collection tools for Claude, from RevRecoup.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "revrecoup",
+      "source": "./plugins/revrecoup",
+      "description": "Estimate recoverable receivables, pick the right collector, and draft overdue-invoice reminders. Connects to RevRecoup's vetted collector network when you're ready.",
+      "version": "1.0.0",
+      "category": "finance",
+      "keywords": ["collections", "accounts receivable", "unpaid invoices", "debt recovery", "dunning", "bad debt"]
+    }
+  ]
+}

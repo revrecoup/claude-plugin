@@ -1,0 +1,9 @@
+{
+  "name": "revrecoup",
+  "version": "1.0.0",
+  "description": "Free receivables tools: recovery estimator, collector matcher and overdue-invoice reminder sequences. Optional hand-off to RevRecoup's vetted collector network.",
+  "author": { "name": "RevRecoup", "email": "support@revrecoup.com", "url": "https://revrecoup.com" },
+  "homepage": "https://revrecoup.com",
+  "license": "MIT",
+  "keywords": ["collections", "accounts receivable", "unpaid invoices", "debt recovery", "dunning"]
+}
